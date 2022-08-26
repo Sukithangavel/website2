@@ -1,0 +1,25 @@
+body{
+    background-image: url(gym1.webp);
+    background-attachment: fixed;
+    background-size: 200%;
+}
+h1{
+    font-size: xx-large;
+    color: white;
+    margin-left: 500px;
+}
+
+form{
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+input{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+
+}
+b{
+    margin-left: 300px;
+}
